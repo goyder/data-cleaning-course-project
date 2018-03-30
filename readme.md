@@ -47,4 +47,4 @@ The created script, `run_analysis.r`:
 This script outputs two files:
 * `totaldata.csv`, the merged and modified summary of the training and test dataset;
 * `tidydata.csv`, the summary of the `total.data` data frame by subject and activity.
-
+* `tidydata.txt`, as required for submission of this project.
